@@ -31,8 +31,7 @@
 ---
 
 ### :fire: So cool stats OMG :fire: :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pref0&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pref0)
 <a href="https://github.com/Testaustime/github-readme-testaustime">
   <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=Prefo&theme=github_dark&layout=compact&range=7&langs_count=10" />
 </a>
